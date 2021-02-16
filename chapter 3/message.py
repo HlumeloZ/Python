@@ -1,0 +1,1 @@
+message = "One of Phython'strengths is its diverse community."
